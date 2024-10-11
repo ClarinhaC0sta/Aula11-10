@@ -9,9 +9,9 @@ i:inteiro
 Inicio
 
 para i de 1 ate 3 faca
-  escreval ("digite um produto para a posição ",i," do vetor 1")
+  escreval ("digite um produto para a posiÃ§Ã£o ",i," do vetor 1")
   leia(prod[i])
-  escreval ("digite o estoque do produto para a posição ",i," do vetor 2")
+  escreval ("digite o estoque do produto para a posiÃ§Ã£o ",i," do vetor 2")
   leia (estoq[i])
 fimpara
 
@@ -52,13 +52,4 @@ fimse
 
 se (op=2) entao
 repita
-  escreval ("qual produto voce quer repor?")
-  leia (prod[i]
-fimpara
-fimse
-
-
-  
-  
-
-Fimalgoritmo
+  EU APAGO TUDO MSM
